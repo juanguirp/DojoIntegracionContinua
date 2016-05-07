@@ -10,7 +10,7 @@ describe('appempic', function () {
   });
 
   it('El apellido debe ser Restrepo', function () {
-    appempic.getLastName().should.equal('Restrepo P.');
+    appempic.getLastName().should.equal('Restrepo');
   });
 
 });
