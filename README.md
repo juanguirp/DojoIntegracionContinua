@@ -1,5 +1,7 @@
-# appempic 
+# appempic
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
+
+## Juan Restrepo
 
 The best module ever.
 
